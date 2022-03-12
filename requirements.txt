@@ -9,5 +9,5 @@ visdom==0.1.8.9
 pandas==0.25.1
 torch==1.2.0
 numpy==1.17.1
-Pillow==6.2.0
+Pillow==9.0.1
 scikit_learn==0.21.3
